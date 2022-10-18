@@ -1,8 +1,6 @@
 Hi, I’m @Onimous1ez
 
-- I’m interested in creating mobile and PC games for later create my own triple A game
-
-- I’m currently learning C# for Unity
+- I’m currently learning C#
 
 - How to reach me email: vilela0025@gmail.com
 
